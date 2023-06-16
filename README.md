@@ -1,14 +1,8 @@
 # Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+## Why did i build a Portfolio
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+I built my portfolio for showing any possible employers what i can do with the right tools. On my portfolio i show some of my project, and there is a page for telling the user about me.
 
 ## Project Setup
 
